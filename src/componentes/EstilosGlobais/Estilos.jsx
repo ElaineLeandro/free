@@ -4,6 +4,7 @@ const estilos = css`
 
     *{ 
         font-family="Montserrat", sans-serif;
+        font-weight= 400;
     }
 `
 
